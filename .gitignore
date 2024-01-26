@@ -1,8 +1,8 @@
 .coffee_env/*
-.train/*
-.valid/*
-.video/*
-.images/*
+.train\*
+.valid\*
+.video\*
+.images\*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
