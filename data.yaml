@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['coffee', 'empty', 'nocoffee']
+
+roboflow:
+  workspace: coffee-byemb
+  project: coffeedetector
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/coffee-byemb/coffeedetector/dataset/1
